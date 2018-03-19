@@ -1,1 +1,1 @@
-# scala_fintech
+# qa_fintech_scala
